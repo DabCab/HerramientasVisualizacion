@@ -1,0 +1,13 @@
+[
+    {"nombre": "Camilo","calificacion": 10.5,"puesto": 5},
+    {"nombre": "Dylan","calificacion": 3.7,"puesto": 140},
+    {"nombre": "Juan","calificacion": 9.2,"puesto": 10},
+    {"nombre": "Gigli","calificacion": 2.8,"puesto": 142},
+    {"nombre": "Milton","calificacion": 8,"puesto": 12},
+    {"nombre": "Ivan","calificacion": 7.4,"puesto": 92},
+    {"nombre": "Cristian","calificacion": 7.09,"puesto": 32},
+    {"nombre": "Raul","calificacion": 5.4,"puesto": 122},
+    {"nombre": "Ferdy","calificacion": 8.6,"puesto": 30},
+    {"nombre": "Alexa","calificacion": 4.2,"puesto": 132},
+    {"nombre": "Daniel Caballero","calificacion": 15.6,"puesto": 3}
+]
