@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {"id": "Martha", "group": 1},
+    {"id": "DanielCaballero", "group": 1},
+    {"id": "Pedro", "group": 1},
+    {"id": "Camilo", "group": 1},
+    {"id": "Matematicas", "group": 2},
+    {"id": "Geometria", "group": 2},
+    {"id": "Fisica", "group": 3},
+    {"id": "Lenguaje", "group": 4},
+    {"id": "Quimica", "group": 3},
+    {"id": "Historia", "group": 3},
+    {"id": "CienciasSociales", "group": 5},
+    {"id": "Artes", "group": 6}
+  ],
+  "links": [
+    {"source": "Martha", "target": "Matematicas", "value": 1},
+    {"source": "Martha", "target": "Geometria", "value": 8},
+    {"source": "DanielCaballero", "target": "Fisica", "value": 10},
+    {"source": "DanielCaballero", "target": "Lenguaje", "value": 6},
+    {"source": "Camilo", "target": "Quimica", "value": 1},
+    {"source": "Camilo", "target": "Historia", "value": 1}
+  ]
+}
